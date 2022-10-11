@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PHP Crude CRUD Android App</string>
+    <string name="sensor_num">Enter Employee ID</string>
+    <string name="retrieve_button">Retrieve by ID</string>
+</resources>
